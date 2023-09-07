@@ -7,3 +7,6 @@ Use git init in terminal to activate git in your code
 yo ini ada perubahan
 coba ini berubah ga tidak di save
 ini adalah berikutnya
+
+### section 2.a
+ini adalah yang baru
